@@ -9,19 +9,10 @@
 // Additionally, you can toggle specific options in the Configure
 // menu.
 
-function main() {
-  return 'Hello, World!';
-}
+def main(name) 
+  return 'Hello, #{name}!';
+end
+
+main("to")
 
 
-
-(()=>{
-  console.log({
-    "message": "this is a message"	
-  });
-})();
-
-var _str = "yo";
-var str = 'other yo'; 
-
-main();
