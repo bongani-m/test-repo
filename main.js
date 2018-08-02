@@ -21,4 +21,7 @@ function main() {
   });
 })();
 
+var _str = "yo";
+var str = 'other yo'; 
+
 main();
