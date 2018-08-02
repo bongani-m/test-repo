@@ -1,6 +1,6 @@
-puts "yy" +
-  "fasdsfasd"
- 
-def yo
-  puts 'asdfasfs' 
- end
+def hello(name)
+	puts "Hello, " +  name
+end
+
+hello('Bongani ' )
+
