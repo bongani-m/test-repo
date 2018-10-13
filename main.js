@@ -8,13 +8,6 @@
 //
 // Additionally, you can toggle specific options in the Configure
 // menu.
-
-function main() {
-  return 'Hello, World!';
-}
-
-
-
 (()=>{
   console.log({
     "message": "this is a message"	
@@ -22,3 +15,10 @@ function main() {
 })();
 
 main();
+function main() {
+  return 'Hello, World!';
+}
+
+
+
+
